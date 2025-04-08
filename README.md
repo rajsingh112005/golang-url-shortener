@@ -43,11 +43,5 @@ curl -X POST -H "Content-Type: application/json" -d '{"url":"https://example.com
 curl http://localhost:8080/<short-code>
 ```
 
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and push the branch.
-4. Open a pull request describing your changes.
 
 
